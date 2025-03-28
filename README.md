@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 Currently working with React, NodeJS, NextJS, React Native and some Java<br>🎯 Focusing on optimizations and building architectures
+👨🏻‍💻 Currently working with React, NodeJS, NextJS, React Native and Java<br>🎯 Focusing on optimizations and building architectures
 
 
 ## 🌐 Socials:

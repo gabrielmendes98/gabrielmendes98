@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 Currently working with React, NodeJS, NextJS, React Native and Java<br>🎯 Focusing on optimizations and building architectures
+👨🏻‍💻 Currently working with React, NodeJS, NestJS, NextJS, React Native and Java<br>🎯 Focusing on optimizations and building architectures
 
 🚀 Take a look at the latest project I've been working on: https://github.com/skymfe
 

@@ -1,6 +1,7 @@
 # 💫 About Me:
 👨🏻‍💻 Currently working with React, NodeJS, NextJS, React Native and Java<br>🎯 Focusing on optimizations and building architectures
 
+🚀 Take a look at the latest project I've been working on: https://github.com/skymfe
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gabriel-mssantiago) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrielmssantiago@gmail.com) 
